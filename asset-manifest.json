@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.f855e6bc.css",
+    "main.js": "/Portfolio/static/js/main.022b2533.js",
+    "static/js/453.a8fe04ce.chunk.js": "/Portfolio/static/js/453.a8fe04ce.chunk.js",
+    "static/media/profile.jpg": "/Portfolio/static/media/profile.03cdc9b2410b0735a5ef.jpg",
+    "static/media/update.gif": "/Portfolio/static/media/update.d55d660b5e3e393af58b.gif",
+    "static/media/Vivek.pdf": "/Portfolio/static/media/Vivek.e6ed443fa8c5779305c6.pdf",
+    "static/media/software-developer.jpg": "/Portfolio/static/media/software-developer.a92c41b851977e4abd99.jpg",
+    "static/media/update.png": "/Portfolio/static/media/update.f7eff81f29782d65c40c.png",
+    "static/media/python.png": "/Portfolio/static/media/python.6a5cbc319ab3ddf8ef92.png",
+    "static/media/physics.png": "/Portfolio/static/media/physics.86c8d9eba03e29814d2a.png",
+    "static/media/HTML5.png": "/Portfolio/static/media/HTML5.2cd5d05c9660ec55992e.png",
+    "static/media/mysql.png": "/Portfolio/static/media/mysql.4610cbabbff468ff8ae3.png",
+    "static/media/task.png": "/Portfolio/static/media/task.e12c21bcc0bccd954517.png",
+    "static/media/Google Cloud.png": "/Portfolio/static/media/Google Cloud.82db605aef72391d7e03.png",
+    "static/media/MongoDB.png": "/Portfolio/static/media/MongoDB.b723bb18907da666f951.png",
+    "static/media/Django REST.png": "/Portfolio/static/media/Django REST.50a8c01f755bd95bbdba.png",
+    "static/media/django.png": "/Portfolio/static/media/django.559d0c6161a6fb950f02.png",
+    "static/media/java-script.png": "/Portfolio/static/media/java-script.78206ba65e01c7d57080.png",
+    "static/media/LinkedIn.png": "/Portfolio/static/media/LinkedIn.7edc3e1079b59e128c49.png",
+    "static/media/css-3.png": "/Portfolio/static/media/css-3.4a6549b8c2b4cda8bb88.png",
+    "static/media/Docker.png": "/Portfolio/static/media/Docker.4e29864a43ac93d4f457.png",
+    "static/media/logo.svg": "/Portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Portfolio/index.html",
+    "main.f855e6bc.css.map": "/Portfolio/static/css/main.f855e6bc.css.map",
+    "main.022b2533.js.map": "/Portfolio/static/js/main.022b2533.js.map",
+    "453.a8fe04ce.chunk.js.map": "/Portfolio/static/js/453.a8fe04ce.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.022b2533.js"
+  ]
+}
