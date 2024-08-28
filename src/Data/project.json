@@ -1,0 +1,22 @@
+[
+    {
+        "name":"Detection of Phishing Websites",
+        "sourcecode":"https://github.com/vivek979393/Detection-of-phishing-website",
+        "Description":"Made a project which helps user to detect the link which they got from email or message is Phishing or not.",
+        "skills":["Python","Django","Javascript"]
+        
+        
+    },
+    {
+        "name":"College Data Clustring using machine learning",
+        "sourcecode":"#sourcecode",
+        "Description":"Mada a project Which can analysis the Differentcolleges data and find valuable insight from it.",
+        "skills":["Python","Javascript"]
+    },
+    {
+        "name":"Weather App",
+        "sourcecode":"#source code",
+        "Description":"Made a project which is helpfull in finding the weather conditions",
+        "skills":["Django","CSS","React.js"]
+    }
+]

@@ -1,0 +1,68 @@
+[
+    {
+       "name":"Python",
+        "image":"python.png"
+
+    },
+    {  
+        "name":"Django",
+        "image":"django.png"
+
+    },
+    {
+        "name":"HTML",
+        "image":"HTML5.png"
+
+    },
+    {
+        "name":"JavaScript",
+        "image":"java-script.png"
+
+    },
+    {
+        "name":"MySql",
+        "image":"mysql.png"
+
+    },
+    {
+        "name":"Numpy",
+        "image":"numpy.png"
+
+    },
+    {
+        "name":"Pandas",
+        "image":"Pandas.png"
+
+    },
+    {
+        "name":"React",
+        "image":"physics.png"
+
+    },
+    {
+        "name":"Node.js",
+        "image":"Node.js.png"
+
+    },
+    {
+       "name":"Express.js",
+        "image":"Express.png"
+
+    },
+    {
+        "name":"Docker",
+        "image":"Docker.png"
+
+    },
+    {
+        "name":"Tableau",
+        "image":"tableau.png"
+
+    },
+    {
+        "name":"MongoDB",
+        "image":"MongoDB.png"
+
+    }
+
+]
