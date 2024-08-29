@@ -27,13 +27,7 @@ function App() {
 
 
   return (
-
-
-
     <Frame>
-
-
-
       <NavBar />
      
         <div class="area" >

@@ -65,7 +65,8 @@ font-size: 20px;
   
     align-items:center;
     font-size:80%
-    padding:0px 10px;
+    padding:10px 10px;
+    
     
   }
 `;

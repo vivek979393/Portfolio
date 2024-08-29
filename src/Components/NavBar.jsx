@@ -34,9 +34,6 @@ background: #19276d;
   }
 
 
-
-
-
 `;
 const Title=styled.div`
 
@@ -76,13 +73,12 @@ color:#FFFFFF;
     
     display: ${props => (props.menuOpen ? 'none' : 'flex')};
     flex-direction: column;
-    align-items: center;
-    gap: 13px;
+    gap:10px 10px;
     position: absolute;
     border-radius: 10px;
   
     background: linear-gradient(90deg, #19276d 0%, rgba(25, 55, 109, 0) 100%);
-    padding: 24px 33px;
+    
     box-shadow: 0 0 4px 0 rgba(0, 0, 0, 0.25);
     
   }
