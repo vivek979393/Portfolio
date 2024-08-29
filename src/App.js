@@ -10,7 +10,7 @@ import Experience from './Components/Experience.jsx';
 import Contact from './Components/Contact.jsx';
 
 
-const Frame=styled.div`
+const Frame = styled.div`
 
    background-color:#04152d;
    display:flex;
@@ -27,22 +27,56 @@ function App() {
 
 
   return (
+
+
+
     <Frame>
-      
-      <NavBar/>
-      <body>
-      <Hero/>
-      <About/>
-      <Experience/>
-      <Project/>
-      <Contact/>
-      </body>
-      
+
+
+
+      <NavBar />
+     
+        <div class="area" >
+          <ul class="circles">
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+            <li></li>
+          </ul>
+          
+
+            <Hero />
+            <About />
+
+            <Experience />
+            <Project />
+            <Contact />
+
+          </div>
+
+
+        
+
 
     </Frame>
-      
-    
-    
+
+
+
+
+
+
+
+
+
+
+
+
   );
 }
 
