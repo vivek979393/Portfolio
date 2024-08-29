@@ -1,10 +1,9 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.89b400d2.css",
-    "main.js": "/Portfolio/static/js/main.d0bc16dd.js",
+    "main.css": "/Portfolio/static/css/main.f855e6bc.css",
+    "main.js": "/Portfolio/static/js/main.022b2533.js",
     "static/js/453.a8fe04ce.chunk.js": "/Portfolio/static/js/453.a8fe04ce.chunk.js",
     "static/media/profile.jpg": "/Portfolio/static/media/profile.03cdc9b2410b0735a5ef.jpg",
-    "static/media/snake.png": "/Portfolio/static/media/snake.14180af9c65f4af1bae1.png",
     "static/media/update.gif": "/Portfolio/static/media/update.d55d660b5e3e393af58b.gif",
     "static/media/Vivek.pdf": "/Portfolio/static/media/Vivek.e6ed443fa8c5779305c6.pdf",
     "static/media/software-developer.jpg": "/Portfolio/static/media/software-developer.a92c41b851977e4abd99.jpg",
@@ -24,12 +23,12 @@
     "static/media/Docker.png": "/Portfolio/static/media/Docker.4e29864a43ac93d4f457.png",
     "static/media/logo.svg": "/Portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
     "index.html": "/Portfolio/index.html",
-    "main.89b400d2.css.map": "/Portfolio/static/css/main.89b400d2.css.map",
-    "main.d0bc16dd.js.map": "/Portfolio/static/js/main.d0bc16dd.js.map",
+    "main.f855e6bc.css.map": "/Portfolio/static/css/main.f855e6bc.css.map",
+    "main.022b2533.js.map": "/Portfolio/static/js/main.022b2533.js.map",
     "453.a8fe04ce.chunk.js.map": "/Portfolio/static/js/453.a8fe04ce.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.89b400d2.css",
-    "static/js/main.d0bc16dd.js"
+    "static/css/main.f855e6bc.css",
+    "static/js/main.022b2533.js"
   ]
 }
