@@ -121,7 +121,7 @@ const Contact=()=>{
         <Details>
             <Email >
                 <EmailRounded style={{fontSize:'25px',hight:'5vh',width:'5vh'}}/>
-                <a href='mailvivekshukla979393@gmail.com' style={{textDecoration:'none',fontSize:'25px',color:"#FFFFFF"}}>
+                <a href='mailto:vivekshukla979393@gmail.com' style={{textDecoration:'none',fontSize:'25px',color:"#FFFFFF"}}>
                     Email
                 </a>
 
