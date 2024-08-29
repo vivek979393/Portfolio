@@ -150,11 +150,11 @@ const NavBar=()=>{
         
         <Itemss menuOpen={menuOpen}  onClick={() => setMenuOpen(false)} style={{ cursor: "pointer"}} >
             
-            <Items to="Hero" activeClass='active' smooth={true} spy={true} offset={-50} duration={500} >Home</Items>
-            <Items to="about" activeClass='active' smooth={true} spy={true} offset={-50} duration={500}>About</Items>
+            <Items to="Hero" activeClass='active' smooth={true} spy={true} offset={-100} duration={500} >Home</Items>
+            <Items to="about" activeClass='active' smooth={true} spy={true} offset={-70} duration={500}>About</Items>
             <Items to="experience" activeClass='active' smooth={true} spy={true} offset={-50} duration={500}>Skills</Items>
-            <Items to="project" activeClass='active' smooth={true} spy={true} offset={-50} duration={500}>Projects</Items>
-            <Items to="contact" activeClass='active' smooth={true} spy={true} offset={-50} duration={500}>Contact</Items>
+            <Items to="project" activeClass='active' smooth={true} spy={true} offset={-70} duration={500}>Projects</Items>
+            <Items to="contact" activeClass='active' smooth={true} spy={true} offset={-70} duration={500}>Contact</Items>
           </Itemss>
           
         
